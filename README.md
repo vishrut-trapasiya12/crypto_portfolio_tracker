@@ -61,12 +61,10 @@ flutter run
 
 ---
 
-## 🎨 Recorded Demo
 
-A video demo showcasing the app functionality can be accessed here:  
-[Demo Video Link](https://example.com)
+## Preview
 
----
+![App Demo](assets/preview.gif)
 
 ## 🔗 API Endpoints
 
