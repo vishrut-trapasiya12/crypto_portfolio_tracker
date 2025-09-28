@@ -42,7 +42,7 @@ A Flutter application to track your cryptocurrency portfolio. Users can add coin
 
 ```bash
 git clone <your-repo-url>
-cd crypto_portfolio_tracker
+cd crypto_portfolio
 ```
 
 2. **Install Dependencies**  
